@@ -20,15 +20,9 @@
 <a href="https://www.hackerrank.com/akileswar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="akileswar2002" height="30" width="40" /></a>
 </p>
 
-<<<<<<< HEAD
 <h3 align="left">MY Badges:</h3>
 <p align="left">
 <a href="https://www.credly.com/badges/73024b7a-c6ef-4fb7-ab41-73ed35b7e28c/public_url"><img src="Custom badges\introduction-to-packet-tracer.png"></a>
-=======
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="#"><img src="Custom badges\introduction-to-packet-tracer.png"></a>
->>>>>>> 2d05cf2b1a9169cc7767614ab540d0609b3ff5d2
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
