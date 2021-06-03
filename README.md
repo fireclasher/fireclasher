@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#"><img src="Custom badges\introduction-to-packet-tracer.png"></a>
+<a href="https://www.credly.com/badges/73024b7a-c6ef-4fb7-ab41-73ed35b7e28c/public_url"  target="blank"><img src="Custom badges\introduction-to-packet-tracer.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
