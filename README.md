@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akileswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="akileswar akil" height="30" width="40" /></a>
-<a href="https://instagram.com/ppl_call_me_v_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ppl_call_me_v_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mercury tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="mercury tech" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akileswar2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akileswar2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akileswar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="akileswar2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akileswar" target="blank">linkedin <br></a>
+<a href="https://instagram.com/ppl_call_me_v_" target="blank">Instagram <br></a>
+<a href="https://www.youtube.com/c/mercury tech" target="blank">Youtube <br></a>
+<a href="https://www.codechef.com/users/akileswar2002" target="blank">Codechef<br></a>
+<a href="https://www.hackerrank.com/akileswar2002" target="blank">hackerrank <br></a>
 </p>
 
 <h3 align="left">My Badges:</h3>
