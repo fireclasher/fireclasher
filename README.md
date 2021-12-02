@@ -19,7 +19,7 @@
 <a href="https://www.codechef.com/users/akileswar2002" target="blank">Codechef<br></a>
 <a href="https://www.hackerrank.com/akileswar2002" target="blank">hackerrank <br></a>
 </p>
-
+<script src="https://tryhackme.com/badge/442611"></script>
 <h3 align="left">My Badges:</h3>
 <p align="left">
 <a href="https://www.credly.com/badges/73024b7a-c6ef-4fb7-ab41-73ed35b7e28c/public_url"  target="blank"><img src="Custom badges\introduction-to-packet-tracer.png"></a>
